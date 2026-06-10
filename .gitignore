@@ -1,0 +1,9 @@
+*.pth
+*.pt
+__pycache__/
+*.pyc
+output/
+data/
+*.egg-info/
+build/
+dist/
